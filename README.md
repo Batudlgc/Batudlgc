@@ -1,6 +1,6 @@
 ## Batu Dallıağaç
 
-B.Sc. Sustainable Management & Technology at **TUM** · Munich · member of **MunichQuant**
+B.Sc. Sustainable Management & Technology at **TUM** · Munich · member of **MuniQuant**
 
 I work where finance, strategy and software meet. I like problems where the hard part is knowing whether a result is real.
 
